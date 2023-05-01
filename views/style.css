@@ -1,0 +1,133 @@
+#navbar{
+    background-color:#909090;
+    margin-bottom:5vh;
+}
+#navbarSupportedContent{
+    background-color: #909090;
+}
+
+#margines{
+    margin-bottom: 10px;
+}
+
+#login_info{
+    margin-top: 20px;
+}
+#login_obramowka{
+    width:400px;
+    background-color: #fff
+}
+#post{
+    border-radius: 0px;
+}
+
+#wyszukiwarka{
+    width:1000px;
+}
+
+#kategorie_szukaj{
+    width:600px;
+}
+
+#cena_zasieg{
+    width:100px
+}
+#miasto_szukaj{
+    width:300px;
+}
+#wyszukiwarka_sekcja_2{
+    filter:blur(400px);
+    border:0px;
+}
+
+body{
+    background: url(test_background.jpg) no-repeat center center fixed; 
+    background-size: cover;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding:0;
+    margin:0;
+}
+#formFile{
+     width:600px;
+}
+#kategoria{
+    width:600px;
+}
+#tytul{
+    width:600px;
+}
+
+#tlo{
+    background: rgba(0,0,0,0);border:0px;
+}
+#karta_ogloszenia{
+    width: 540px;
+    max-width:40%;
+
+}
+#tytul{
+    width:600px;
+}
+#opis_ogloszenia{
+    width:600px; height:500px; 
+    text-align: left;
+}
+
+#guzik_dodawania_ogloszenia{
+    margin-top:20px;
+}
+#obramowka_add_post{
+    width:1000px;
+    background-color: #fff;
+}
+#stopka{
+    background-color:#909090;
+    max-height: 15%;
+    height: 15%;
+    margin-top: max(0px,30%);
+    border-radius:0px;
+    border:0px;
+}
+
+#kategorie_tytul{
+    text-align:center;
+    text-decoration:none;
+    text-decoration-color: black;
+}
+
+#kategorie_karta{
+    max-width: 8rem;
+     max-height: 12rem;
+}
+
+#logowanie_haslo{
+    width:220px;
+}
+
+#panel_rejestracji{
+    width:400px;
+    background-color: #fff;
+}
+#panel_uzytkownika{
+    border-radius: 0;
+    min-height: 1000px;
+    border-radius: 15px;
+}
+#naglowek_userPanel{
+    text-align:left; margin-left:5%
+}
+#szerokosc{
+    width: 71%;
+}
+#srodkowanie{
+    justify-content: center;
+}
+#kolorek{
+    color:black;
+}
+#regulamin{
+    min-height: 50%;
+}
